@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Photos</string>
+    <string name="about">About</string>
+    <string name="about_application">Hi, I\'m Matrix.\n\nThe application \'Photos\', which you are using now is useful to view photos in you device.\n\n\nSerial no: 31\nDate of creation: 2 May 2022\nContact us: matrixinventions@gmail.com</string>
+</resources>
